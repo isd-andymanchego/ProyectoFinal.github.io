@@ -1,0 +1,15 @@
+.cuerpo{
+    background: url('../imagenes/fondo\ 4.jpg');
+}
+#contenedor{
+    background: url("../imagenes/fondo.jpg");
+    width: 500px;
+    height: 500px;
+    position: relative;
+    margin: auto;
+    text-align:center;
+    color: blue;
+    opacity: 0.8;
+    border:double 10px darkturquoise;
+}
+
